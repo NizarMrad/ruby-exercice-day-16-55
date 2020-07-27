@@ -1,4 +1,3 @@
-# Ruby_Sinatra_Gossip_THP_Project
+# ruby-exercice-day-16-55
 
 Projet avec Sinatra
-# ruby-exercice-day-16-55
